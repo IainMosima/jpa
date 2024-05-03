@@ -3,9 +3,7 @@ package com.springjpa.jpa;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
 
-import com.springjpa.jpa.models.Author;
 import com.springjpa.jpa.models.Video;
 import com.springjpa.jpa.repositories.AuthorRepository;
 import com.springjpa.jpa.repositories.VideoRepository;
